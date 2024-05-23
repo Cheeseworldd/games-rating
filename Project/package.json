@@ -1,0 +1,28 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Keiko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taciro/LadaTurboSpace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Taciro/LadaTurboSpace/issues"
+  },
+  "homepage": "https://github.com/Taciro/LadaTurboSpace#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "description": ""
+}
